@@ -1,0 +1,8 @@
+langchain
+langchain_community
+pgvector
+openai
+psycopg2-binary
+tiktoken
+boto3
+doctran

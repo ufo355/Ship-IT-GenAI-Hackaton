@@ -1,0 +1,11 @@
+langchain
+langchain_community
+docx2txt
+pgvector
+openai
+psycopg2-binary
+tiktoken
+boto3
+cryptography
+amazon-textract-caller
+amazon-textract-textractor
